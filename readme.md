@@ -22,4 +22,3 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayesh3502&theme=dark)](https://git.io/streak-stats)
