@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh3502&show_icons=true&locale=en&layout=compact" alt="example123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh3502&show_icons=true&locale=en" alt="username" /></p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayesh3502&theme=dark)](https://git.io/streak-stats)
